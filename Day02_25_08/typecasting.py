@@ -44,3 +44,34 @@
 # This line will cause an error
 # int() cannot convert a string that has a comma in it, commas are not digits
 print(int("12,345"))
+
+
+# ------------------------------------------------------------
+# Practice Questions
+# ------------------------------------------------------------
+
+# 1. Convert the float 9.99 to an int and print it. Note what happens
+#    to the decimal part.
+
+# 2. Convert the string "45" to an int, then print its type to confirm.
+
+# 3. Convert the number 100 to a string and join it with the text
+#    " runs scored" using +.
+
+# 4. Convert the boolean False to an int and to a float, and print both.
+
+# 5. Print bool("") and bool("False") and note that both are strings,
+#    but they give different results.
+
+# 6. Take the string "7.8" and convert it directly to an int using
+#    two steps, string to float, then float to int.
+
+# 7. Print the type of int("50") and the type of "50" to see the difference.
+
+# 8. Convert the float 3.0 to a string and print its type.
+
+# 9. Print bool(-5) and bool(0) and note which one is True.
+
+# 10. Try converting the string "twenty" to an int using int("twenty")
+#     and note what kind of error Python gives.
+

@@ -144,3 +144,33 @@ print(5+3>6 or not 2==2)
 print(5>3 and 10>5)
 print(2==2 or 2==3)
 print((100>50) or (20>90 and 5<1))
+
+
+# ------------------------------------------------------------
+# Practice Questions
+# ------------------------------------------------------------
+
+# 1. Print the result of 15 + 4 * 2.
+
+# 2. Print the result of (15 + 4) * 2, and compare it with question 1.
+
+# 3. Print the quotient and remainder of 29 divided by 4,
+#    using floor division and modulo.
+
+# 4. Print 2 raised to the power 10, using both ** and pow().
+
+# 5. Print the absolute value of -48 and round 7.4567 to 2 decimal places.
+
+# 6. Print whether 15 is equal to 15.0.
+
+# 7. Print whether 20 is greater than 15 and 15 is greater than 10,
+#    using the and operator in one line.
+
+# 8. Print whether 5 is greater than 10 or 3 is less than 8,
+#    using the or operator in one line.
+
+# 9. Print the result of not(5==5).
+
+# 10. Print the result of 3 + 4 * 2 - 6 / 2, and work out by hand
+#     why Python gives that answer using PEMDAS.
+
